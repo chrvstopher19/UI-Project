@@ -1,0 +1,34 @@
+body {
+    background: url(https://mail.google.com/mail/u/0?ui=2&ik=445f9323ff&attid=0.1&permmsgid=msg-a:r4475897798433562143&th=18b18eb0e8715c30&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9Z12v5YjDtyCUZZQxLGVt9ZctBMEZwI8lrGgzpdRRxa8v5PmFCPtnYU_i7dG7gIVbybX_kzn0JejScYs5LsqtgLjjZR3ii8OELniw3lFHQdhZ5Ia9IcwQP6Fg&disp=emb&realattid=18b18eb02b5ef1957e01);
+    border: 3px solid chartreuse;
+    background-size:cover;
+    background-position: center;
+}
+
+#RnMContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+  }
+
+  img {
+    border: 3px solid chartreuse;
+  }
+ 
+  h1{
+    text-align: center;
+    color: chartreuse;
+    font-family: 'Creepster';
+    font-size: 30px;
+    }
+
+.RnMBtn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 60px;
+    width: 100px;
+}
+  
